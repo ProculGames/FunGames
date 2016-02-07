@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 601883cc2af3c734880ce10f9caecbd0
+timeCreated: 1454878520
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: grape:Body
+    100002: grape:Feet
+    100004: grape:group1
+    100006: grape:Hands
+    100008: grape:Head
+    100010: grape:Left_Eye
+    100012: grape:Right_Eye
+    100014: grape:Sphere
+    100016: grape:Sphere_1
+    100018: grape:Sphere_2
+    100020: //RootNode
+    100022: mixamorig:grape:Head
+    100024: mixamorig:grape:HeadTop_End
+    100026: mixamorig:grape:Hips
+    100028: mixamorig:grape:LeftArm
+    100030: mixamorig:grape:LeftFoot
+    100032: mixamorig:grape:LeftForeArm
+    100034: mixamorig:grape:LeftHand
+    100036: mixamorig:grape:LeftHandIndex1
+    100038: mixamorig:grape:LeftHandIndex2
+    100040: mixamorig:grape:LeftHandIndex3
+    100042: mixamorig:grape:LeftHandIndex4
+    100044: mixamorig:grape:LeftLeg
+    100046: mixamorig:grape:LeftShoulder
+    100048: mixamorig:grape:LeftToe_End
+    100050: mixamorig:grape:LeftToeBase
+    100052: mixamorig:grape:LeftUpLeg
+    100054: mixamorig:grape:Neck
+    100056: mixamorig:grape:RightArm
+    100058: mixamorig:grape:RightFoot
+    100060: mixamorig:grape:RightForeArm
+    100062: mixamorig:grape:RightHand
+    100064: mixamorig:grape:RightHandIndex1
+    100066: mixamorig:grape:RightHandIndex2
+    100068: mixamorig:grape:RightHandIndex3
+    100070: mixamorig:grape:RightHandIndex4
+    100072: mixamorig:grape:RightLeg
+    100074: mixamorig:grape:RightShoulder
+    100076: mixamorig:grape:RightToe_End
+    100078: mixamorig:grape:RightToeBase
+    100080: mixamorig:grape:RightUpLeg
+    100082: mixamorig:grape:Spine
+    100084: mixamorig:grape:Spine1
+    100086: mixamorig:grape:Spine2
+    400000: grape:Body
+    400002: grape:Feet
+    400004: grape:group1
+    400006: grape:Hands
+    400008: grape:Head
+    400010: grape:Left_Eye
+    400012: grape:Right_Eye
+    400014: grape:Sphere
+    400016: grape:Sphere_1
+    400018: grape:Sphere_2
+    400020: //RootNode
+    400022: mixamorig:grape:Head
+    400024: mixamorig:grape:HeadTop_End
+    400026: mixamorig:grape:Hips
+    400028: mixamorig:grape:LeftArm
+    400030: mixamorig:grape:LeftFoot
+    400032: mixamorig:grape:LeftForeArm
+    400034: mixamorig:grape:LeftHand
+    400036: mixamorig:grape:LeftHandIndex1
+    400038: mixamorig:grape:LeftHandIndex2
+    400040: mixamorig:grape:LeftHandIndex3
+    400042: mixamorig:grape:LeftHandIndex4
+    400044: mixamorig:grape:LeftLeg
+    400046: mixamorig:grape:LeftShoulder
+    400048: mixamorig:grape:LeftToe_End
+    400050: mixamorig:grape:LeftToeBase
+    400052: mixamorig:grape:LeftUpLeg
+    400054: mixamorig:grape:Neck
+    400056: mixamorig:grape:RightArm
+    400058: mixamorig:grape:RightFoot
+    400060: mixamorig:grape:RightForeArm
+    400062: mixamorig:grape:RightHand
+    400064: mixamorig:grape:RightHandIndex1
+    400066: mixamorig:grape:RightHandIndex2
+    400068: mixamorig:grape:RightHandIndex3
+    400070: mixamorig:grape:RightHandIndex4
+    400072: mixamorig:grape:RightLeg
+    400074: mixamorig:grape:RightShoulder
+    400076: mixamorig:grape:RightToe_End
+    400078: mixamorig:grape:RightToeBase
+    400080: mixamorig:grape:RightUpLeg
+    400082: mixamorig:grape:Spine
+    400084: mixamorig:grape:Spine1
+    400086: mixamorig:grape:Spine2
+    4300000: grape:Sphere_2
+    4300002: grape:Sphere
+    4300004: grape:Left_Eye
+    4300006: grape:Right_Eye
+    4300008: grape:Sphere_1
+    4300010: grape:Body
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: grape:Body
+    13700002: grape:Left_Eye
+    13700004: grape:Right_Eye
+    13700006: grape:Sphere
+    13700008: grape:Sphere_1
+    13700010: grape:Sphere_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

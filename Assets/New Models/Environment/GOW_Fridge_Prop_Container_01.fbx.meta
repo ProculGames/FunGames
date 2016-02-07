@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: b15e4864d04061d4b983c6fafb916645
+timeCreated: 1454879402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GOW_Fridge_Prop_Container_01_2
+    100004: GOW_Fridge_Prop_ContainerBottom_01
+    100006: GOW_Fridge_Prop_ContainerTop_01
+    100008: GOW_Fridge_Prop_HotDog_01
+    100010: GOW_Fridge_Prop_HotDog_02
+    100012: GOW_Fridge_Prop_HotDog_03
+    400000: //RootNode
+    400002: GOW_Fridge_Prop_Container_01_2
+    400004: GOW_Fridge_Prop_ContainerBottom_01
+    400006: GOW_Fridge_Prop_ContainerTop_01
+    400008: GOW_Fridge_Prop_HotDog_01
+    400010: GOW_Fridge_Prop_HotDog_02
+    400012: GOW_Fridge_Prop_HotDog_03
+    2300000: GOW_Fridge_Prop_ContainerBottom_01
+    2300002: GOW_Fridge_Prop_ContainerTop_01
+    2300004: GOW_Fridge_Prop_HotDog_01
+    2300006: GOW_Fridge_Prop_HotDog_02
+    2300008: GOW_Fridge_Prop_HotDog_03
+    3300000: GOW_Fridge_Prop_ContainerBottom_01
+    3300002: GOW_Fridge_Prop_ContainerTop_01
+    3300004: GOW_Fridge_Prop_HotDog_01
+    3300006: GOW_Fridge_Prop_HotDog_02
+    3300008: GOW_Fridge_Prop_HotDog_03
+    4300000: GOW_Fridge_Prop_ContainerTop_01
+    4300002: GOW_Fridge_Prop_ContainerBottom_01
+    4300004: GOW_Fridge_Prop_HotDog_01
+    4300006: GOW_Fridge_Prop_HotDog_02
+    4300008: GOW_Fridge_Prop_HotDog_03
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
